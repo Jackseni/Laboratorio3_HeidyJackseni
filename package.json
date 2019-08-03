@@ -1,0 +1,23 @@
+{
+  "name": "laboratorio3_heidyjacksenid",
+  "version": "1.0.0",
+  "description": "Creacion de un servidor en Node.JS Express",
+  "main": "Index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jackseni/Laboratorio3_HeidyJackseni.git"
+  },
+  "author": "Jackseni Dubon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jackseni/Laboratorio3_HeidyJackseni/issues"
+  },
+  "homepage": "https://github.com/Jackseni/Laboratorio3_HeidyJackseni#readme"
+}
